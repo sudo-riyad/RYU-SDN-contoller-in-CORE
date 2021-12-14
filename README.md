@@ -33,4 +33,4 @@ slices_data4 = [(600,"00:00:00:00:00:11","00:00:00:00:00:12","00:00:00:00:00:13"
                (700,"00:00:00:00:00:14","00:00:00:00:00:15","00:00:00:00:00:13",22)]
 ```
 
-For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/OpenVirteX-Hypevisor-In-CORE/blob/15c2e701b4ad0e018ba997ec266048fbff0fecdd/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
+For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/RYU-SDN-contoller-in-CORE/blob/cc64d009d620c4626b2264d7d2c1c59770244a85/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
