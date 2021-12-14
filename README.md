@@ -2,6 +2,10 @@
 
 ## This is the implemetation and documentation for implenemting Network Slicing through RYU SDN controller in SDN data plane in CORE emulator for Master project
 
+### LICENCE 
+
+Copyright © Riyad Ul Islam
+
 ### The followings is the architectural overview of SDN network implementation
 
 In this approach, the experimental goal is to make a multitenant sliced network. In this regards, nine Open
@@ -32,5 +36,7 @@ slices_data2 = [(300,"00:00:00:00:00:11","00:00:00:00:00:15","00:00:00:00:00:16"
 slices_data4 = [(600,"00:00:00:00:00:11","00:00:00:00:00:12","00:00:00:00:00:13",80),
                (700,"00:00:00:00:00:14","00:00:00:00:00:15","00:00:00:00:00:13",22)]
 ```
+
+### Documentation 
 
 For the Implementation of the network check the documentation: [Project Documentation](https://github.com/sudo-riyad/RYU-SDN-contoller-in-CORE/blob/cc64d009d620c4626b2264d7d2c1c59770244a85/Documentation/IndividualProject_Islam_Riyad-Ul-_1324662.pdf)
